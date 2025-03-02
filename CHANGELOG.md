@@ -4,13 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-10-25)
+## Unreleased (2025-03-02)
 
 <section class="features">
 
 ### Features
 
--   [`a3fb243`](https://github.com/stdlib-js/stdlib/commit/a3fb243895ebb2ad90f84bbe4d69c23e4663758c) - add `blas/base/dswap-wasm` [(#2976)](https://github.com/stdlib-js/stdlib/pull/2976)
+-   [`35ad7f0`](https://github.com/stdlib-js/stdlib/commit/35ad7f0af7ec928461e62eb10d85a0730819af7b) - add `blas/base/wasm/dswap`
 
 </section>
 
@@ -22,10 +22,8 @@
 
 <details>
 
--   [`91e37be`](https://github.com/stdlib-js/stdlib/commit/91e37be0fc89c072ee006802d5a568eab3003c9a) - **docs:** fix missing license headers _(by Athan Reines)_
--   [`d681033`](https://github.com/stdlib-js/stdlib/commit/d681033f62799160a33f37a76c8ea64df6532179) - **build:** update compiler flags and export resolution _(by Athan Reines)_
--   [`0010618`](https://github.com/stdlib-js/stdlib/commit/001061803801fb497616cc99943129f5817e8eed) - **docs:** fix descriptions _(by Athan Reines)_
--   [`a3fb243`](https://github.com/stdlib-js/stdlib/commit/a3fb243895ebb2ad90f84bbe4d69c23e4663758c) - **feat:** add `blas/base/dswap-wasm` [(#2976)](https://github.com/stdlib-js/stdlib/pull/2976) _(by Aman Bhansali, Athan Reines)_
+-   [`8a80a81`](https://github.com/stdlib-js/stdlib/commit/8a80a811f4c4d710106c73b6381fe0d3ed2ab901) - **build:** generalize scripts to auto-update copyright year _(by Athan Reines)_
+-   [`35ad7f0`](https://github.com/stdlib-js/stdlib/commit/35ad7f0af7ec928461e62eb10d85a0730819af7b) - **feat:** add `blas/base/wasm/dswap` _(by Athan Reines)_
 
 </details>
 
@@ -37,9 +35,8 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 1 person contributed to this release. Thank you to this contributor:
 
--   Aman Bhansali
 -   Athan Reines
 
 </section>
