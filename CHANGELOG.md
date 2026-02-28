@@ -1,0 +1,109 @@
+# CHANGELOG
+
+> Package changelog.
+
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-28)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`75fe17b`](https://github.com/stdlib-js/stdlib/commit/75fe17b70513a2f00bbffc911a7007084c781d13) - **bench:** refactor to use string interpolation in `blas/base/wasm/dswap` [(#10548)](https://github.com/stdlib-js/stdlib/pull/10548) _(by Shubham)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Shubham
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.1">
+
+## 0.1.1 (2026-02-08)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
+<section class="release" id="v0.1.0">
+
+## 0.1.0 (2026-01-31)
+
+<section class="features">
+
+### Features
+
+-   [`35ad7f0`](https://github.com/stdlib-js/stdlib/commit/35ad7f0af7ec928461e62eb10d85a0730819af7b) - add `blas/base/wasm/dswap`
+
+</section>
+
+<!-- /.features -->
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`f29497c`](https://github.com/stdlib-js/stdlib/commit/f29497ca191d4fd9efd09ceee5a84475e0cd5254) - ensure correct `this` context when creating a new Module instance
+
+</section>
+
+<!-- /.bug-fixes -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`e62f498`](https://github.com/stdlib-js/stdlib/commit/e62f498b2bad582476862a5872115ae22152fe88) - **docs:** fix example code and return annotations in TSDoc examples _(by Philipp Burckhardt)_
+-   [`73e4725`](https://github.com/stdlib-js/stdlib/commit/73e4725ad922926de4747c08a8121c99ef8a548d) - **style:** remove extraneous empty line _(by Philipp Burckhardt)_
+-   [`f29497c`](https://github.com/stdlib-js/stdlib/commit/f29497ca191d4fd9efd09ceee5a84475e0cd5254) - **fix:** ensure correct `this` context when creating a new Module instance _(by Philipp Burckhardt)_
+-   [`2ec2116`](https://github.com/stdlib-js/stdlib/commit/2ec2116fb43058cddc4bf726defbe60823bd2590) - **docs:** fix typo _(by Athan Reines)_
+-   [`c4c8949`](https://github.com/stdlib-js/stdlib/commit/c4c89491c78401962872fc128f68c3a16dc7703f) - **docs:** update examples _(by Athan Reines)_
+-   [`8a80a81`](https://github.com/stdlib-js/stdlib/commit/8a80a811f4c4d710106c73b6381fe0d3ed2ab901) - **build:** generalize scripts to auto-update copyright year _(by Athan Reines)_
+-   [`35ad7f0`](https://github.com/stdlib-js/stdlib/commit/35ad7f0af7ec928461e62eb10d85a0730819af7b) - **feat:** add `blas/base/wasm/dswap` _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
